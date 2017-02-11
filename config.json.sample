@@ -1,0 +1,12 @@
+{
+    "tracking": "Region",
+    "unearned": {
+        "name": "Unearned CodeDay Ticket Revenue",
+        "code": 225
+    },
+    "earned": {
+        "name": "CodeDay Ticket Sales",
+        "code": 401
+    },
+    "consumer_key": "XXXXXX"
+}
